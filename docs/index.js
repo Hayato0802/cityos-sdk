@@ -2023,24 +2023,24 @@
     var sources = {
     	oceanus: {
     		type: "vector",
-    		url: "https://tileserver.geolonia.com/oceanus/tiles.json?key=YOUR-API-KEY"
+    		url: "https://tileserver.geolonia.com/oceanus/tiles.json?key=7b1ec7c6e9814d539bfcc7c66568511e"
     	},
     	"gsi-japan": {
     		type: "vector",
-    		url: "https://tileserver.geolonia.com/gsi_experimental_bvmap/tiles.json?key=YOUR-API-KEY",
+    		url: "https://tileserver.geolonia.com/gsi_experimental_bvmap/tiles.json?key=7b1ec7c6e9814d539bfcc7c66568511e",
     		minzoom: 5
     	},
     	"geolonia-water": {
     		type: "vector",
-    		url: "https://tileserver.geolonia.com/water/tiles.json?key=YOUR-API-KEY"
+    		url: "https://tileserver.geolonia.com/water/tiles.json?key=7b1ec7c6e9814d539bfcc7c66568511e"
     	},
     	"geolonia-gsi-custom": {
     		type: "vector",
-    		url: "https://tileserver.geolonia.com/gsi-extra-v2/tiles.json?key=YOUR-API-KEY"
+    		url: "https://tileserver.geolonia.com/gsi-extra-v2/tiles.json?key=7b1ec7c6e9814d539bfcc7c66568511e"
     	},
     	takamatsu: {
     		type: "vector",
-    		url: "https://tileserver.geolonia.com/takamatsu_main_v0/tiles.json?key=YOUR-API-KEY"
+    		url: "https://tileserver.geolonia.com/takamatsu_main_v0/tiles.json?key=7b1ec7c6e9814d539bfcc7c66568511e"
     	}
     };
     var sprite = "https://geoloniamaps.github.io/gsi/gsi";
